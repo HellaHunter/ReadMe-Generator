@@ -36,5 +36,5 @@ No tests available
 
 ## Questions
 
--Github Username: HellaHunter
--Email Address: hunteroneal54@gmail.com
+- Github Username: HellaHunter
+- Email Address: hunteroneal54@gmail.com
