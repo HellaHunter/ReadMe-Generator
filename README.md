@@ -1,43 +1,40 @@
+# README Generator
 
+## Table of Contents
 
-  # uwefcuojwfd
+-[Description](#description)
+-[Installation](#installation)
+-[Usage](#usage)
+-[Contributing](#contributing)
+-[Tests](#tests)
+-[License](#license)
+-[Questions](#questions)
 
-    ## Table of Contents
+## Description
 
-    -[Description](#description)
-    -[Installation](#installation)
-    -[Usage](#usage)
-    -[Contributing](#contributing)
-    -[Tests](#tests)
-    -[License](#license)
-    -[Questions](#questions)
+Using the README Generator, a user can mak a read me simply by responding to prompts via node.js. No more fussing with formatting!
 
-    ## Description
+## Installation
 
-    wfgbuwfdfdejuibhwf
+There are no installation instructions for this project
 
-    ## Installation
+## Usage
 
-    hdowiuerfdhouwf
+To use, simply clone the repo, go to the BASH command line, initialize the npm with "npm i", then run "node index.js". From there, simply answer the prompts and a new README will be created based off your answers!
 
-    ## Usage
+## Contributing
 
-    ujbwcufdcew
+Currently this project is not open to contributions.
 
-    ## Contributing
+## Test
 
-    ubwoeujcfdbwe
+No tests available
 
-    ## Test
+## License
 
-    jnlkwdebfoljwerf
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-    ## License
+## Questions
 
-    [![License: MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-    ## Questions
-
-    -Github Username: fhbnweuojnfhbwe
-    -Email Address: woenfdhiwendhf@gmail.com
-    
+-Github Username: HellaHunter
+-Email Address: hunteroneal54@gmail.com
